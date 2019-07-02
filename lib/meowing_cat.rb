@@ -12,9 +12,6 @@ def meow
   puts "meow!"
 end
 
-# def meow
-#
-# end
 # attr_writer :name
 # attr_reader :name
 end
