@@ -5,5 +5,5 @@ def instantiates(cat)
 end
 
 def name=(cats_name)
-end 
+end
 end
