@@ -5,16 +5,16 @@ def name=(cats_name)
 
 end
 def name
-  @name
-end
-
-def meow=(cat_meow)
-@meow = cat_meow
+  @name 
 end
 
 def meow
- @meow
-end
+  puts "meow!"
+end 
+
+def meow
+
+end 
 # attr_writer :name
 # attr_reader :name
 end
